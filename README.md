@@ -1,6 +1,6 @@
 # CCTV-News
 2009-2021年的新闻联播数据（txt格式）
-
-来自https://tv.cctv.com/lm/xwlb/  
-
+生文本，无标注。
+爬取自https://tv.cctv.com/lm/xwlb/  
+该网站经过五六次改变，不同阶段爬取代码有所变化
 仅交流学习使用
